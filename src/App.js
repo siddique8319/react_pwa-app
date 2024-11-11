@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+
+import Button from 'react-bootstrap/Button';
+import Card from 'react-bootstrap/Card';
 // Bootstrap CSS
 import "bootstrap/dist/css/bootstrap.min.css";
 // Bootstrap Bundle JS
